@@ -4,6 +4,5 @@
 <p align="center">
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
-<align = "center"
 <img loading "print da compilação do código" src="https://github.com/terezafcsousa2/ConversorDeMoedas/blob/main/assets/print_da-Compilacao.png" />
-</p>
+
