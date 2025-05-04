@@ -6,5 +6,5 @@
 </p>
 
 ## Print da compilação do código
-<img loading "print da compilação do código" src="https://github.com/terezafcsousa2/ConversorDeMoedas/blob/main/assets/print_da-Compilacao.png" />
 
+<img src="https://github.com/terezafcsousa2/ConversorDeMoedas/blob/main/assets/print_da-Compilacao.png" alt=" Print da compilação do código" >
