@@ -1,8 +1,8 @@
 
 <h1 align="center"> Conversor de Moedas </h1>
-
+<h2 align= "center"> Esse programa faz parte do desafio: Java e Orientação a Objetos G8 - ONE/Challenge.</h2>
 <p align="center">
-<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=CONVERSOR%20DE-MOEDAS&color=GREEN&style=for-the-badge"/>
+<img loading="lazy" src="http://img.shields.io/static/v1?label=PROGRAMA&message=CONVERSOR-DE-MOEDAS&color=GREEN&style=for-the-badge"/>
 </p>
 
 ## Print da compilação do código
