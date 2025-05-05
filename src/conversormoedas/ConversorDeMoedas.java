@@ -13,7 +13,7 @@ public class ConversorDeMoedas {
     public MoedasDados convertemoedas(String base_code, String target_code, String valorParaConverter){
 
 
-        URI endereco = URI.create("https://v6.exchangerate-api.com/v6/YOURAPIKEY/pair/" + base_code + "/" + target_code +"/"+valorParaConverter);
+        URI endereco = URI.create("https://v6.exchangerate-api.com/v6/YOUR-API-KEY/pair/" + base_code + "/" + target_code +"/"+valorParaConverter);
 
         HttpRequest request = HttpRequest.newBuilder()
                 .uri(endereco)
