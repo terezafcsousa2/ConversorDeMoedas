@@ -9,10 +9,11 @@
 
 <img src="https://github.com/terezafcsousa2/ConversorDeMoedas/blob/main/assets/print_da-Compilacao.png" alt=" Print da compilação do código" >
 
- # Dependências:
- *linguagem Java.
- *Instalar o JDK 17, 20 ou 21.
- *Instalar o Json na estrutura do projeto (" Ctrl+Alt+Shift+S").
- * [Criar uma API KEY no site] ("https://www.exchangerate-api.com/docs/overview")
+ ## Dependências:
+ 
+ * linguagem Java.
+ * Instalar o JDK 17, 20 ou 21.
+ * Instalar o Json na estrutura do projeto (" Ctrl+Alt+Shift+S").
+ * [Criar uma API KEY no site] ("https://www.exchangerate-api.com/docs/overview").
  
  
