@@ -1,7 +1,11 @@
 
 <h1 align="center"> Conversor de Moedas </h1>
 
-## One #Alura #Jacquline Oliveira #Paulo Silveira
+@oraclenexteducation 
+@SouEstudanteEmFormacaoONEG8 
+@Alura 
+@Jacquline Oliveira 
+@Paulo Silveira
 
 <h2 align= "center"> Esse programa faz parte do desafio: Java e Orientação a Objetos G8 - ONE/Challenge.</h2>
 <p align="center">
