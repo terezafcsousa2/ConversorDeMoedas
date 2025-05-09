@@ -10,6 +10,7 @@
 <h2 align= "center"> Esse programa faz parte do desafio: Java e Orientação a Objetos G8 - ONE/Challenge.</h2>
 <p align="center">
 
+<div align="center">
 <img loading="lazy" src="http://img.shields.io/static/v1?label=PROGRAMA&message=CONVERSOR-DE-MOEDAS&color=GREEN&style=for-the-badge"/>
 </p>
 <img src="https://github.com/terezafcsousa2/ConversorDeMoedas/blob/main/assets/Badge-Conversor.png" alt= "Badge">
@@ -17,7 +18,7 @@
 ## Print da compilação do código
 
 <img src="https://github.com/terezafcsousa2/ConversorDeMoedas/blob/main/assets/print_da-Compilacao.png" alt=" Print da compilação do código" >
-
+</div>
  ## Dependências:
  
  * linguagem Java.
