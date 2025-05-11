@@ -17,7 +17,7 @@
 
 ## Print da compilação do código
 
-<img src="https://github.com/terezafcsousa2/ConversorDeMoedas/blob/main/assets/print_da-Compilacao.png" alt=" Print da compilação do código" >
+<img src="https://github.com/terezafcsousa2/ConversorDeMoedas/blob/main/assets/print_da-Compilacao.png" alt=" Print da compilação do código" />
 </div>
 
 
