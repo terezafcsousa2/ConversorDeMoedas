@@ -32,7 +32,7 @@
    
 ## Configuração do ambiente
 
-* Java JDK: versão: 11 em diante - https://www.oracle.com/br/java/technologies/downloads/
+* Java JDK: https://www.oracle.com/br/java/technologies/downloads/
 * Biblioteca Gson 2.10.1 em diante - https://mvnrepository.com/artifact/com.google.code.gson/gson/2.11.0
 * Postman - opcional - https://www.postman.com/downloads/
 * IDE (Ambiente de desenvolvimento integrado) IntelliJ IDEA- opcional - https://www.jetbrains.com/pt-br/idea/download/?section=windows
