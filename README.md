@@ -47,7 +47,7 @@
 * Construir o Cliente para solicitações (HttpClient)
 * Construir a Requisição (HttpRequest).
 * Construir a Resposta (HttpResponse).
-* Utilizar o Postman para analizar aresposta dos dados obtidos na API.
+* Utilizar o Postman para analizar a resposta dos dados obtidos na API.
    
 
 
